@@ -1,4 +1,4 @@
-# IbisExampleData
+# Ibis Example Data
 
 This repository contains data that may be used in Ibis application.
 

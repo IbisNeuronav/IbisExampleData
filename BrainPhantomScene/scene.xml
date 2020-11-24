@@ -270,7 +270,7 @@
    </ObjectInScene_10>
    <ObjectInScene_11>
     <ObjectClass value="ImageObject"/>
-    <FullFileName value="./3.mnc"/>
+    <FullFileName value="./BrainPhantomMRI.mnc"/>
     <ObjectID value="3"/>
     <ParentID value="78"/>
     <ObjectName value="colin_left.mnc"/>
@@ -529,7 +529,7 @@
    </ObjectInScene_19>
    <ObjectInScene_20>
     <ObjectClass value="ImageObject"/>
-    <FullFileName value="./95.mnc"/>
+    <FullFileName value="./USVolumeReconstruction.mnc"/>
     <ObjectID value="95"/>
     <ParentID value="-2"/>
     <ObjectName value="Reconstructed Volume"/>
