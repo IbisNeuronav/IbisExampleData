@@ -1,0 +1,30 @@
+<!DOCTYPE configML>
+<configuration>
+    <Servers>
+        <NumberOfElements value="1"/>
+        <Element_0>
+            <ServerName value="Local-trans" />
+            <IPAddress value="localhost" />
+            <Port value="18944" />
+            <StartAuto value="0" />
+            <ConnectAuto value="1" />
+            <PlusConfigFile value="opencv-camera-no-tracking-plus.xml" />
+        </Element_0>
+    </Servers>
+    <Tools>
+        <NumberOfElements value="1"/>
+        <Element_0>
+            <ToolName value="Webcam"/>
+            <ToolType value="Camera"/>
+        </Element_0>
+    </Tools>
+    <Associations>
+        <NumberOfElements value="1"/>
+        <Element_0>
+            <DeviceName value="Image_Image"/>
+            <ToolName value="Webcam"/>
+            <ToolPart value="Image"/>
+        </Element_0>
+    </Associations>
+
+</configuration>

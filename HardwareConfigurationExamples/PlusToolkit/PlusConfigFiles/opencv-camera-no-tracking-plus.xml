@@ -1,0 +1,40 @@
+<PlusConfiguration version="2.7">
+
+  <DataCollection StartupDelaySec="1.0">
+    <DeviceSet
+      Name="Simple OpenCV Video"
+      Description="Broadcasting video captured from the first OpenCV capture device found on the machine"
+    />
+    
+    <Device
+      Id="VideoDevice"
+      Type="OpenCVVideo" 
+      RequestedCaptureApi="CAP_ANY"
+      DeviceIndex="0" >
+      <DataSources>
+        <DataSource Type="Video" Id="Video" ImageType="RGB_COLOR" PortUsImageOrientation="MN" />
+      </DataSources>
+      <OutputChannels>
+        <OutputChannel Id="VideoStream" VideoDataSourceId="Video" />
+      </OutputChannels>
+    </Device>
+    
+  </DataCollection>
+
+  <PlusOpenIGTLinkServer
+    MaxNumberOfIgtlMessagesToSend="1"
+    MaxTimeSpentWithProcessingMs="50"
+    ListeningPort="18944"
+    SendValidTransformsOnly="true"
+    OutputChannelId="VideoStream" >
+    <DefaultClientInfo>
+      <MessageTypes>
+        <Message Type="IMAGE" />
+      </MessageTypes>
+      <ImageNames>
+        <Image Name="Image" EmbeddedTransformToFrame="Image" />
+      </ImageNames>
+    </DefaultClientInfo>
+  </PlusOpenIGTLinkServer>
+
+</PlusConfiguration>
