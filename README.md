@@ -1,6 +1,6 @@
 # Ibis Example Data
 
-This repository contains data that may be used in Ibis application.
+This repository contains data that may be used in Ibis application. git-lfs must be installed first in order to clone this repository. See [git-lfs documentation](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage).
 
 [**BrainPhantomScene**](https://github.com/IbisNeuronav/IbisExampleData/tree/master/BrainPhantomScene) and [**SpineScene**](https://github.com/IbisNeuronav/IbisExampleData/tree/master/SpineScene) contain scenes that can be loaded directly into Ibis application.
 
