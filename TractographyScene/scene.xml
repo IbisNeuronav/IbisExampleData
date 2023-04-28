@@ -1,0 +1,778 @@
+<!DOCTYPE configML>
+<configuration>
+ <SaveScene>
+  <IbisVersion value="4.0.0  Dev"/>
+  <IbisRevision value="21e7bac"/>
+  <Version value="6.0"/>
+  <NextObjectID value="21"/>
+  <NumberOfSceneObjects value="21"/>
+  <ObjectList>
+   <ObjectInScene_0>
+    <ObjectClass value="WorldObject"/>
+    <FullFileName value="none"/>
+    <ObjectID value="-2"/>
+    <ParentID value="-1"/>
+    <ObjectName value="World"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="0"/>
+    <ObjectManagedBySystem value="1"/>
+    <ObjectHidden value="0"/>
+    <AllowHiding value="0"/>
+    <ObjectDeletable value="0"/>
+    <NameChangeable value="0"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="0"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+   </ObjectInScene_0>
+   <ObjectInScene_1>
+    <ObjectClass value="TripleCutPlaneObject"/>
+    <FullFileName value="none"/>
+    <ObjectID value="-3"/>
+    <ParentID value="-2"/>
+    <ViewPlanes value="1 1 1 "/>
+    <PlanesPosition value="5.9117278916455689e+00 -6.7559552121262243e+00 5.9168149501013119e+00 "/>
+    <SliceThickness value="1"/>
+    <SliceMixMode>
+     <NumberOfElements value="5"/>
+     <Element_0 value="2"/>
+     <Element_1 value="2"/>
+     <Element_2 value="2"/>
+     <Element_3 value="2"/>
+     <Element_4 value="2"/>
+    </SliceMixMode>
+    <BlendingModeIndices>
+     <NumberOfElements value="5"/>
+     <Element_0 value="2"/>
+     <Element_1 value="2"/>
+     <Element_2 value="2"/>
+     <Element_3 value="2"/>
+     <Element_4 value="2"/>
+    </BlendingModeIndices>
+   </ObjectInScene_1>
+   <ObjectInScene_2>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./0.fib"/>
+    <ObjectID value="0"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CC1_C_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_2>
+   <ObjectInScene_3>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./1.fib"/>
+    <ObjectID value="1"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CC2_C_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_3>
+   <ObjectInScene_4>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./2.fib"/>
+    <ObjectID value="2"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CC3_C_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_4>
+   <ObjectInScene_5>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./3.fib"/>
+    <ObjectID value="3"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CC4_C_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_5>
+   <ObjectInScene_6>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./4.fib"/>
+    <ObjectID value="4"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CC5_C_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_6>
+   <ObjectInScene_7>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./5.fib"/>
+    <ObjectID value="5"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CC6_C_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_7>
+   <ObjectInScene_8>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./6.fib"/>
+    <ObjectID value="6"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CC7_C_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_8>
+   <ObjectInScene_9>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./7.fib"/>
+    <ObjectID value="7"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CPC_C_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_9>
+   <ObjectInScene_10>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./8.fib"/>
+    <ObjectID value="8"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CST_L_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_10>
+   <ObjectInScene_11>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./9.fib"/>
+    <ObjectID value="9"/>
+    <ParentID value="-2"/>
+    <ObjectName value="CST_R_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_11>
+   <ObjectInScene_12>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./10.fib"/>
+    <ObjectID value="10"/>
+    <ParentID value="-2"/>
+    <ObjectName value="IOFF_L_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_12>
+   <ObjectInScene_13>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./11.fib"/>
+    <ObjectID value="11"/>
+    <ParentID value="-2"/>
+    <ObjectName value="IOFF_R_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="0"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_13>
+   <ObjectInScene_14>
+    <ObjectClass value="ImageObject"/>
+    <FullFileName value="./12.nii.gz"/>
+    <ObjectID value="12"/>
+    <ParentID value="-2"/>
+    <ObjectName value="afd_total.nii.gz"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="-9.9814978095390772e-01 5.2161659128522025e-02 -3.1243808398245369e-02 0.0000000000000000e+00 -5.3124958294826316e-02 -9.9811158810007705e-01 3.0838237908294347e-02 0.0000000000000000e+00 -2.9576233496492535e-02 3.2441008265804254e-02 9.9903594906263782e-01 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <LabelImage value="0"/>
+    <ViewOutline value="0"/>
+    <LutIndex value="0"/>
+    <LutRange value="0.0000000000000000e+00 1.0290886163711548e+00 "/>
+    <IntensityFactor value="9.8999999999999999e-01"/>
+    <VolumeRenderingEnabled value="0"/>
+    <ColorWindow value="1.0000000000000000e+00"/>
+    <ColorLevel value="5.0000000000000000e-01"/>
+    <EnableShading value="0"/>
+    <Ambiant value="1.0000000000000001e-01"/>
+    <Diffuse value="6.9999999999999996e-01"/>
+    <Specular value="2.0000000000000001e-01"/>
+    <SpecularPower value="1.0000000000000000e+01"/>
+    <EnableGradientOpacity value="1"/>
+    <AutoSampleDistance value="1"/>
+    <SampleDistance value="1.0000000000000000e+00"/>
+    <ShowVolumeClippingBox value="0"/>
+    <VolumeRenderingBounds value="-6.2588272108354431e+01 7.4411727891645569e+01 -9.2255955212126224e+01 8.2744044787873776e+01 -5.3583185049898688e+01 6.5416814950101312e+01 "/>
+    <ScalarOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ScalarOpacity>
+    <GradientOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </GradientOpacity>
+    <ColorTransferFunction>
+     <NbColorPoints value="2"/>
+     <ColorPoint_0 value="0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <ColorPoint_1 value="2.5500000000000000e+02 1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ColorTransferFunction>
+   </ObjectInScene_14>
+   <ObjectInScene_15>
+    <ObjectClass value="ImageObject"/>
+    <FullFileName value="./13.nii.gz"/>
+    <ObjectID value="13"/>
+    <ParentID value="-2"/>
+    <ObjectName value="fa.nii.gz"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="-9.9814978095390772e-01 5.2161659128522025e-02 -3.1243808398245369e-02 0.0000000000000000e+00 -5.3124958294826316e-02 -9.9811158810007705e-01 3.0838237908294347e-02 0.0000000000000000e+00 -2.9576233496492535e-02 3.2441008265804254e-02 9.9903594906263782e-01 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <LabelImage value="0"/>
+    <ViewOutline value="0"/>
+    <LutIndex value="0"/>
+    <LutRange value="0.0000000000000000e+00 9.9999994039535522e-01 "/>
+    <IntensityFactor value="9.8999999999999999e-01"/>
+    <VolumeRenderingEnabled value="0"/>
+    <ColorWindow value="1.0000000000000000e+00"/>
+    <ColorLevel value="5.0000000000000000e-01"/>
+    <EnableShading value="0"/>
+    <Ambiant value="1.0000000000000001e-01"/>
+    <Diffuse value="6.9999999999999996e-01"/>
+    <Specular value="2.0000000000000001e-01"/>
+    <SpecularPower value="1.0000000000000000e+01"/>
+    <EnableGradientOpacity value="1"/>
+    <AutoSampleDistance value="1"/>
+    <SampleDistance value="1.0000000000000000e+00"/>
+    <ShowVolumeClippingBox value="0"/>
+    <VolumeRenderingBounds value="-6.2588272108354431e+01 7.4411727891645569e+01 -9.2255955212126224e+01 8.2744044787873776e+01 -5.3583185049898688e+01 6.5416814950101312e+01 "/>
+    <ScalarOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ScalarOpacity>
+    <GradientOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </GradientOpacity>
+    <ColorTransferFunction>
+     <NbColorPoints value="2"/>
+     <ColorPoint_0 value="0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <ColorPoint_1 value="2.5500000000000000e+02 1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ColorTransferFunction>
+   </ObjectInScene_15>
+   <ObjectInScene_16>
+    <ObjectClass value="ImageObject"/>
+    <FullFileName value="./14.nii.gz"/>
+    <ObjectID value="14"/>
+    <ParentID value="-2"/>
+    <ObjectName value="md.nii.gz"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="-9.9814978095390772e-01 5.2161659128522025e-02 -3.1243808398245369e-02 0.0000000000000000e+00 -5.3124958294826316e-02 -9.9811158810007705e-01 3.0838237908294347e-02 0.0000000000000000e+00 -2.9576233496492535e-02 3.2441008265804254e-02 9.9903594906263782e-01 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <LabelImage value="0"/>
+    <ViewOutline value="0"/>
+    <LutIndex value="0"/>
+    <LutRange value="0.0000000000000000e+00 1.0135291144251823e-02 "/>
+    <IntensityFactor value="9.8999999999999999e-01"/>
+    <VolumeRenderingEnabled value="0"/>
+    <ColorWindow value="1.0000000000000000e+00"/>
+    <ColorLevel value="5.0000000000000000e-01"/>
+    <EnableShading value="0"/>
+    <Ambiant value="1.0000000000000001e-01"/>
+    <Diffuse value="6.9999999999999996e-01"/>
+    <Specular value="2.0000000000000001e-01"/>
+    <SpecularPower value="1.0000000000000000e+01"/>
+    <EnableGradientOpacity value="1"/>
+    <AutoSampleDistance value="1"/>
+    <SampleDistance value="1.0000000000000000e+00"/>
+    <ShowVolumeClippingBox value="0"/>
+    <VolumeRenderingBounds value="-6.2588272108354431e+01 7.4411727891645569e+01 -9.2255955212126224e+01 8.2744044787873776e+01 -5.3583185049898688e+01 6.5416814950101312e+01 "/>
+    <ScalarOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ScalarOpacity>
+    <GradientOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </GradientOpacity>
+    <ColorTransferFunction>
+     <NbColorPoints value="2"/>
+     <ColorPoint_0 value="0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <ColorPoint_1 value="2.5500000000000000e+02 1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ColorTransferFunction>
+   </ObjectInScene_16>
+   <ObjectInScene_17>
+    <ObjectClass value="ImageObject"/>
+    <FullFileName value="./16.nii.gz"/>
+    <ObjectID value="16"/>
+    <ParentID value="-2"/>
+    <ObjectName value="t1_mask_warped.nii.gz"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="1"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="-9.9814978089891970e-01 5.2161662843676335e-02 -3.1243810257277571e-02 0.0000000000000000e+00 -5.3124958291899664e-02 -9.9811158790612664e-01 3.0838239767373449e-02 0.0000000000000000e+00 -2.9576235357508387e-02 3.2441008259500401e-02 9.9903594894711245e-01 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <LabelImage value="0"/>
+    <ViewOutline value="0"/>
+    <LutIndex value="0"/>
+    <LutRange value="0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <IntensityFactor value="9.8999999999999999e-01"/>
+    <VolumeRenderingEnabled value="0"/>
+    <ColorWindow value="1.0000000000000000e+00"/>
+    <ColorLevel value="5.0000000000000000e-01"/>
+    <EnableShading value="0"/>
+    <Ambiant value="1.0000000000000001e-01"/>
+    <Diffuse value="6.9999999999999996e-01"/>
+    <Specular value="2.0000000000000001e-01"/>
+    <SpecularPower value="1.0000000000000000e+01"/>
+    <EnableGradientOpacity value="1"/>
+    <AutoSampleDistance value="1"/>
+    <SampleDistance value="1.0000000000000000e+00"/>
+    <ShowVolumeClippingBox value="0"/>
+    <VolumeRenderingBounds value="-6.2588272003069520e+01 7.4411727996930480e+01 -9.2255954973161479e+01 8.2744045026838521e+01 -5.3583184979590371e+01 6.5416815020409629e+01 "/>
+    <ScalarOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ScalarOpacity>
+    <GradientOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </GradientOpacity>
+    <ColorTransferFunction>
+     <NbColorPoints value="2"/>
+     <ColorPoint_0 value="0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <ColorPoint_1 value="2.5500000000000000e+02 1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ColorTransferFunction>
+   </ObjectInScene_17>
+   <ObjectInScene_18>
+    <ObjectClass value="ImageObject"/>
+    <FullFileName value="./17.nii.gz"/>
+    <ObjectID value="17"/>
+    <ParentID value="-2"/>
+    <ObjectName value="t1_warped.nii.gz"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="0"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="-9.9814978089891970e-01 5.2161662843676335e-02 -3.1243810257277571e-02 0.0000000000000000e+00 -5.3124958291899664e-02 -9.9811158790612664e-01 3.0838239767373449e-02 0.0000000000000000e+00 -2.9576235357508387e-02 3.2441008259500401e-02 9.9903594894711245e-01 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <LabelImage value="0"/>
+    <ViewOutline value="0"/>
+    <LutIndex value="0"/>
+    <LutRange value="0.0000000000000000e+00 1.8291251953125000e+04 "/>
+    <IntensityFactor value="9.8999999999999999e-01"/>
+    <VolumeRenderingEnabled value="0"/>
+    <ColorWindow value="1.0000000000000000e+00"/>
+    <ColorLevel value="5.0000000000000000e-01"/>
+    <EnableShading value="0"/>
+    <Ambiant value="1.0000000000000001e-01"/>
+    <Diffuse value="6.9999999999999996e-01"/>
+    <Specular value="2.0000000000000001e-01"/>
+    <SpecularPower value="1.0000000000000000e+01"/>
+    <EnableGradientOpacity value="1"/>
+    <AutoSampleDistance value="1"/>
+    <SampleDistance value="1.0000000000000000e+00"/>
+    <ShowVolumeClippingBox value="0"/>
+    <VolumeRenderingBounds value="-6.2588272003069520e+01 7.4411727996930480e+01 -9.2255954973161479e+01 8.2744045026838521e+01 -5.3583184979590371e+01 6.5416815020409629e+01 "/>
+    <ScalarOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ScalarOpacity>
+    <GradientOpacity>
+     <NbPoints value="2"/>
+     <Point_0 value="0.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <Point_1 value="2.5500000000000000e+02 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </GradientOpacity>
+    <ColorTransferFunction>
+     <NbColorPoints value="2"/>
+     <ColorPoint_0 value="0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+     <ColorPoint_1 value="2.5500000000000000e+02 1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 5.0000000000000000e-01 0.0000000000000000e+00 "/>
+    </ColorTransferFunction>
+   </ObjectInScene_18>
+   <ObjectInScene_19>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./18.fib"/>
+    <ObjectID value="18"/>
+    <ParentID value="-2"/>
+    <ObjectName value="AF_L_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="0"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="1"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_19>
+   <ObjectInScene_20>
+    <ObjectClass value="TractogramObject"/>
+    <FullFileName value="./19.fib"/>
+    <ObjectID value="19"/>
+    <ParentID value="-2"/>
+    <ObjectName value="AF_R_all.fib"/>
+    <AllowChildren value="1"/>
+    <AllowChangeParent value="1"/>
+    <ObjectManagedBySystem value="0"/>
+    <ObjectHidden value="0"/>
+    <AllowHiding value="1"/>
+    <ObjectDeletable value="1"/>
+    <NameChangeable value="1"/>
+    <ObjectListable value="1"/>
+    <AllowManualTransformEdit value="1"/>
+    <LocalTransform value="1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <RenderingMode value="1"/>
+    <ScalarsVisible value="1"/>
+    <Opacity value="1.0000000000000000e+00"/>
+    <ObjectColor value="1.0000000000000000e+00 1.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <CrossSectionVisible value="1"/>
+    <ClippingEnabled value="0"/>
+    <ClippingPlanesOrientation value="1 1 1 "/>
+    <LutIndex value="0"/>
+    <VertexColorMode value="2"/>
+    <ScalarSourceObjectId value="-1"/>
+    <ShowTexture value="0"/>
+    <TextureFileName value=""/>
+   </ObjectInScene_20>
+  </ObjectList>
+  <Plugins>
+   <USAcquisitionDoubleView/>
+  </Plugins>
+  <SceneManager>
+   <CurrentObjectID value="19"/>
+   <ReferenceObjectID value="12"/>
+   <ViewBackgroundColor value="3.1372549019607843e-01 3.1372549019607843e-01 3.1372549019607843e-01 "/>
+   <View3DBackgroundColor value="3.1372549019607843e-01 3.1372549019607843e-01 3.1372549019607843e-01 "/>
+   <Views>
+    <NumberOfViews value="4"/>
+    <View_0>
+     <ViewID value="-4"/>
+     <ViewType value="1"/>
+     <Name value="Coronal"/>
+     <Position value="-2.5176030583115125e+01 3.6516212036559386e+02 -6.1366523604262877e+00 "/>
+     <FocalPoint value="-6.3337322818422699e+00 4.6153778894653135e+00 5.5819770917588905e+00 "/>
+     <Scale value="9.3492916739024537e+01"/>
+     <ViewUp value="-3.1243808398245369e-02 3.0838237908294347e-02 9.9903594906263782e-01 "/>
+     <ViewAngle value="3.0000000000000000e+01"/>
+    </View_0>
+    <View_1>
+     <ViewID value="-5"/>
+     <ViewType value="0"/>
+     <Name value="Sagittal"/>
+     <Position value="4.1386144117094034e+02 2.6979609349150746e+01 1.8032804362186063e+01 "/>
+     <FocalPoint value="-6.3337323688964302e+00 4.6153795552437415e+00 5.5819770376171221e+00 "/>
+     <Scale value="1.0895610623521300e+02"/>
+     <ViewUp value="-3.1243808398245369e-02 3.0838237908294347e-02 9.9903594906263782e-01 "/>
+     <ViewAngle value="3.0000000000000000e+01"/>
+    </View_1>
+    <View_2>
+     <ViewID value="-3"/>
+     <ViewType value="3"/>
+     <Name value="ThreeD"/>
+     <Position value="-2.9484014689985725e+02 -6.1182617044929287e+01 1.1183527039437733e+02 "/>
+     <FocalPoint value="-6.3337322473394160e+00 4.6153778591046883e+00 5.5819762122630499e+00 "/>
+     <Scale value="2.5980762113533160e+02"/>
+     <ViewUp value="-3.1243808492826083e-02 3.0838237903257477e-02 9.9903594905983528e-01 "/>
+     <ViewAngle value="3.0000000000000000e+01"/>
+    </View_2>
+    <View_3>
+     <ViewID value="-2"/>
+     <ViewType value="2"/>
+     <Name value="Transverse"/>
+     <Position value="-2.0421836598925271e+01 1.8520608533247454e+01 4.5605595257033883e+02 "/>
+     <FocalPoint value="-6.3337323391000098e+00 4.6153795258341006e+00 5.5819760848621947e+00 "/>
+     <Scale value="1.1670375279978678e+02"/>
+     <ViewUp value="5.2161659128522025e-02 -9.9811158810007705e-01 3.2441008265804254e-02 "/>
+     <ViewAngle value="3.0000000000000000e+01"/>
+    </View_3>
+   </Views>
+  </SceneManager>
+  <AxesHidden value="0"/>
+  <CursorVisible value="1"/>
+  <CutPlanesCursorColor_r value="252"/>
+  <CutPlanesCursorColor_g value="175"/>
+  <CutPlanesCursorColor_b value="62"/>
+  <QuadViewWindow>
+   <CurrentViewWindow value="1"/>
+   <ViewExpanded value="0"/>
+  </QuadViewWindow>
+  <Plugins>
+   <GeneratedSurface/>
+   <LabelVolumeToSurfaces/>
+   <LandmarkRegistrationObject/>
+   <USAcquisitionDoubleView/>
+   <IbisHardwareIGSIO/>
+  </Plugins>
+ </SaveScene>
+</configuration>
