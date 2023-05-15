@@ -1,0 +1,8 @@
+[fileType],Cohort
+[electrodeType],DIXI10,0.5
+[trajectory],Electrode_1,0,10.9269,-51.9949,46.3846,51.2512,-39.919,51.3846,0,
+[trajectory],Electrode_2,1,47.2404,7.54342,9.10664,44.2404,-12.2097,55.3288,0,
+[trajectory],Electrode_3,2,38.4991,-11.6127,-2.56363,66.7603,-7.6127,4.5296,0,
+[trajectory],Electrode_4,3,39.7646,-24.4763,30.3816,61.3896,-22.4763,28.6855,0,
+[trajectory],Electrode_5,4,5.78801,-49.4746,62.1948,24.4033,-48.4746,67.7896,0,
+[order],ElectrodeName,indexElectrode,targetx,targety,targetz,entryx,entryy,entryz
