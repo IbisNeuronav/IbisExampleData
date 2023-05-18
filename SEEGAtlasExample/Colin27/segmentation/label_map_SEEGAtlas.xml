@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<LabelList>
+<Label>
+	<Name>CSF</Name>
+	<Number>1</Number>
+	<RGBColor>145 29 125</RGBColor>
+</Label>
+<Label>
+	<Name>GM</Name>
+	<Number>2</Number>
+	<RGBColor>0 255 0</RGBColor>
+</Label>
+<Label>
+	<Name>WM</Name>
+	<Number>3</Number>
+	<RGBColor>0 0 255</RGBColor>
+</Label>
+<Label>
+	<Name>Fat</Name>
+	<Number>4</Number>
+	<RGBColor>255 255 0</RGBColor>
+</Label>
+<Label>
+	<Name>Muscles</Name>
+	<Number>5</Number>
+	<RGBColor>0 255 255</RGBColor>
+</Label>
+<Label>
+	<Name>Skin and Muscles</Name>
+	<Number>6</Number>
+	<RGBColor>255 0 255</RGBColor>
+</Label>
+<Label>
+	<Name>Skull</Name>
+	<Number>7</Number>
+	<RGBColor>255 239 213</RGBColor>
+</Label>
+<Label>
+	<Name>Fat2</Name>
+	<Number>9</Number>
+	<RGBColor>205 133 63</RGBColor>
+</Label>
+<Label>
+	<Name>Dura</Name>
+	<Number>10</Number>
+	<RGBColor>0 210 38</RGBColor>
+</Label>
+<Label>
+	<Name>Marrow</Name>
+	<Number>11</Number>
+	<RGBColor>102 205 170</RGBColor>
+</Label>
+<Label>
+	<Name>Vessels</Name>
+	<Number>12</Number>
+	<RGBColor>255 23 0</RGBColor>
+</Label>
+<Label>
+	<Name>subarachnoid cerebro-spinal fluid </Name>
+	<Number>255</Number>
+	<RGBColor>114 232 9</RGBColor>
+</Label>
+</LabelList>
