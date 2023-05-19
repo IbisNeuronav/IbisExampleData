@@ -1,0 +1,258 @@
+<?xml version="1.0"?>
+<LabelList>
+<Label>
+	<Name>Caudal Anterior Cingulate</Name>
+  <Number>2002</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Caudal Middle Frontal</Name>
+  <Number>2003</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Cuneus</Name>
+  <Number>2005</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Entorhinal</Name>
+  <Number>2006</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Fusiform</Name>
+  <Number>2007</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Inferior Parietal</Name>
+  <Number>2008</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Inferior temporal</Name>
+  <Number>2009</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Isthmus Cingulate</Name>
+  <Number>2010</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Lateral Occipital</Name>
+  <Number>2011</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Lateral Orbitofrontal</Name>
+  <Number>2012</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Lingual</Name>
+  <Number>2013</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Medial Orbitofrontal</Name>
+  <Number>2014</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Middle Temporal</Name>
+  <Number>2015</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Parahippocampal</Name>
+  <Number>2016</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Paracentral</Name>
+  <Number>2017</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Pars Opercularis</Name>
+  <Number>2018</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Pars Orbitalis</Name>
+  <Number>2019</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Pars Triangularis</Name>
+  <Number>2020</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Pericalcarine</Name>
+  <Number>2021</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Postcentral</Name>
+  <Number>2022</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Posterior Cingulate</Name>
+  <Number>2023</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Precentral</Name>
+  <Number>2024</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Precuneus</Name>
+  <Number>2025</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Rostral Anterior Cingulate</Name>
+  <Number>2026</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Rostral Middle Frontal</Name>
+  <Number>2027</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Superior Frontal</Name>
+  <Number>2028</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Superior Parietal</Name>
+  <Number>2029</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Superior Temporal</Name>
+  <Number>2030</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Supramarginal</Name>
+  <Number>2031</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Transverse Temporal</Name>
+  <Number>2034</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Insula</Name>
+  <Number>2035</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Brainstem</Name>
+  <Number>16</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Third Ventricle</Name>
+  <Number>14</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Fourth Ventricle</Name>
+  <Number>15</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Optic Chiasm</Name>
+  <Number>85</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Lateral Ventricle</Name>
+  <Number>43</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Inferior Lateral Ventricle</Name>
+  <Number>44</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Cerebellum Gray Matter</Name>
+  <Number>45</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Cerebellum White Matter</Name>
+  <Number>46</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Thalamus</Name>
+  <Number>49</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Caudate</Name>
+  <Number>50</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Putamen</Name>
+  <Number>51</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Pallidum</Name>
+  <Number>52</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Hippocampus</Name>
+  <Number>53</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Amygdala</Name>
+  <Number>54</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Accumbens Area</Name>
+  <Number>58</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Ventral Diencephalon</Name>
+  <Number>60</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Basal Forebrain</Name>
+  <Number>92</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Vermal lobules I-V</Name>
+  <Number>630</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Vermal lobules VI-VII</Name>
+  <Number>631</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+<Label>
+	<Name>Vermal lobules VIII-X</Name>
+  <Number>632</Number>
+  <RGBColor>204 182 142</RGBColor>
+</Label>
+</LabelList>

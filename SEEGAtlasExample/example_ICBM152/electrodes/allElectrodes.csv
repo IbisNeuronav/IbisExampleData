@@ -1,0 +1,5 @@
+[fileType],Cohort
+[electrodeType],DIXI15,0.5
+[trajectory],elec1,0,4.90183,48.447,-6.11958,37.982,48.447,25.515,0,
+[trajectory],electR2,1,-5.46277,48.447,-3.58882,-27.8179,48.447,36.9034,0,
+[order],ElectrodeName,indexElectrode,targetx,targety,targetz,entryx,entryy,entryz

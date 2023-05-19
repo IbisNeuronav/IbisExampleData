@@ -1,0 +1,6 @@
+[fileType],Cohort,,,,,,,,
+[electrodeType],MNI,0.5,,,,,,,
+[trajectory],AMYG,0,17.1701,21.0282,-23.8999,61.382,21.0282,-7.95467,0
+[trajectory],LHC,1,24.4179,0.982027,-18.8264,68.6298,0.982027,-23.1752,0
+[trajectory],SMA,2,4.84871,21.0282,43.5051,28.0418,10.0282,53.6521,0
+[order],ElectrodeName,indexElectrode,targetx,targety,targetz,entryx,entryy,entryz,
