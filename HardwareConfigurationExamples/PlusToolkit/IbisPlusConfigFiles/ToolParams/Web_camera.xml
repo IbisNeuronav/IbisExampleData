@@ -1,0 +1,21 @@
+<!DOCTYPE configML>
+<configuration>
+    <CalibrationMatrix value="-9.4206271376503714e-01 -2.0409806591163265e-01 -2.6619884076529049e-01 2.1494700257698970e+01 -2.5571847479827753e-01 -7.6609860832488760e-02 9.6371105154505166e-01 -3.1347958407158320e+01 -2.1708501786280954e-01 9.7594821005745869e-01 1.9979647272815176e-02 -1.5475716735986953e+00 0.0000000000000000e+00 0.0000000000000000e+00 0.0000000000000000e+00 1.0000000000000000e+00 "/>
+    <IntrinsicParams>
+        <Center value="5.0000000000000000e-01 5.0000000000000000e-01 "/>
+        <Focal value="8.6965169758302363e-01 1.1598278449292154e+00 "/>
+        <DistortionK1 value="0.0000000000000000e+00"/>
+        <CalibrationReprojectionError value="5.1921712274799370e-01"/>
+    </IntrinsicParams>
+    <ImageDistance value="1.0000000000000000e+02"/>
+    <UseTransparency value="0"/>
+    <TransparencyCenter value="5.0000000000000000e-01 5.0000000000000000e-01 "/>
+    <TransparencyRadius value="2.9999999999999999e-02 2.9999999999999999e-01 "/>
+    <ImageDistance value="1.0000000000000000e+02"/>
+    <GlobalOpacity value="6.9999999999999996e-01"/>
+    <Saturation value="1.0000000000000000e+00"/>
+    <Brightness value="1.0000000000000000e+00"/>
+    <UseGradientTargetTransparencyModulation value="1"/>
+    <ShowTargetTransparencyMask value="0"/>
+    <TrackTargetTransparencyCenter value="0"/>
+</configuration>

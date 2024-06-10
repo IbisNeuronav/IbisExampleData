@@ -16,6 +16,7 @@
         <Element_0>
             <ToolName value="Webcam"/>
             <ToolType value="Camera"/>
+            <ToolParamFile value="ToolParams/Web_camera.xml"/>
         </Element_0>
     </Tools>
     <Associations>
