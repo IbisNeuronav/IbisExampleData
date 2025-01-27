@@ -1,0 +1,32 @@
+<!DOCTYPE configML>
+<configuration>
+    <Servers>
+        <NumberOfElements value="1"/>
+        <Element_0>
+            <ServerName value="Local" />
+            <IPAddress value="localhost" />
+            <Port value="18944" />
+            <StartAuto value="0" />
+            <ConnectAuto value="1" />
+            <PlusConfigFile value="example_tracking_pointer_plus.xml" />
+        </Element_0>
+    </Servers>
+    <Tools>
+        <NumberOfElements value="1"/>
+        <Element_0>
+            <ToolName value="Pointer"/>
+            <ToolType value="Pointer"/>
+            <ToolParamFile value="ToolParams/pointer.xml"/>
+            <ToolModelFile value="pointer.ply"/>
+        </Element_0>
+    </Tools>
+    <Associations>
+        <NumberOfElements value="1"/>
+        <Element_0>
+            <DeviceName value="StylusToReference"/>
+            <ToolName value="Pointer"/>
+            <ToolPart value="Transform"/>
+        </Element_0>
+    </Associations>
+
+</configuration>

@@ -7,4 +7,5 @@ In PlusToolkit directory you will find the following subdirectories:
 
 - IbisPlusConfigFiles - configuration files read by IBIS
 - PlusConfigFiles - configuration files read by PlusServer
+- ToolModels - Model 3D geometry in .ply format
 
